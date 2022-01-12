@@ -1,2 +1,7 @@
-# undergrad-research
-Information for undergraduate students looking to get involved in research in the Frederickson Lab
+For undergraduate students: how to get involved in research in the
+Frederickson Lab
+================
+Megan Frederickson
+12/01/2022
+
+## Hello, world

@@ -1,0 +1,14 @@
+---
+title: 'For undergraduate students: how to get involved in research in the Frederickson
+  Lab'
+author: "Megan Frederickson"
+date: "12/01/2022"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello, world
+
