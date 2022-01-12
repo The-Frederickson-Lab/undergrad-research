@@ -1,4 +1,5 @@
-Getting involved in research an undergraduate student
+Getting involved in Frederickson Lab research as an undergraduate
+student
 ================
 Megan Frederickson
 12/01/2022

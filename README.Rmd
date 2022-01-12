@@ -1,5 +1,5 @@
 ---
-title: 'Getting involved in research an undergraduate student'
+title: 'Getting involved in Frederickson Lab research as an undergraduate student'
 author: "Megan Frederickson"
 date: "12/01/2022"
 output: github_document
