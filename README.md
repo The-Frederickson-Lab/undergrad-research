@@ -20,7 +20,10 @@ programs, and sometimes find them hard to navigate, as each program has
 its own deadlines, eligibility requirements, and procedures.
 
 This document is intended to be a brief guide to becoming an
-undergraduate student researcher in the Frederickson Lab.
+undergraduate student researcher in the Frederickson Lab. The Department
+of Ecology and Evolutionary Biology also has [a helpful slide
+deck](https://docs.google.com/presentation/d/1dT8qmbnDMnP6IeaRHRbfRPwzXYWYPmxDo1n27dWhwjY/edit#slide=id.gc55ddffe75_0_1483)
+that describes most of the same opportunities in more detail.
 
 ### Work-study
 
@@ -32,7 +35,7 @@ with a maximum of 15 hrs/week and 100 or 200 hours total for the summer
 or fall-winter cycles, respectively.
 
 In our lab, work-study students do not undertake their own research
-project. Instead, they support other researchers in the lab by doing a
+projects. Instead, they support other researchers in the lab by doing a
 range of essential tasks such as autoclaving, washing glassware or plant
 pots or the like, making media, taking care of live organisms (mainly
 plants, sometimes insects or microbes), cleaning out and organizing lab
@@ -51,7 +54,7 @@ website. Applications are also submitted through the
 
 ### Research opportunities program (ROP)
 
-ROP students are 2nd or 3rd-year students who get course credit for
+ROP students are 2nd- or 3rd-year students who get course credit for
 doing research in the Frederickson Lab. Usually the Frederickson Lab has
 one or two ROP students a year who work on a pre-defined research
 project, often under the day-to-day supervision of a graduate student or
@@ -66,36 +69,32 @@ publish their results in peer-reviewed journal articles.
 The program is administered by the Faculty of Arts and Science, and
 there is a lot more information available on the [Research Opportunities
 Program](https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program)
-website, including key program dates and timeline, eligibility rules,
-and descriptions of specific ROP projects.
-
-More information is also available on the [Dept. of Ecology and
-Evolutionary
-Biology’s](https://eeb.utoronto.ca/education/undergraduate/research-courses-2/)
-website.
+website, including key program dates, eligibility rules, and
+descriptions of specific ROP projects.
 
 ### 4th-year independent research projects
 
-4th-year students, and some 3rd-year students, in EEB programs can also
-do an independent research project for course credit by taking
+4th-year students, and some 3rd-year students, can also do an
+independent research project for course credit by taking
 [EEB498](https://artsci.calendar.utoronto.ca/course/eeb498y1) (or
 [EEB397](https://artsci.calendar.utoronto.ca/course/eeb397y1),
 [EEB497](https://artsci.calendar.utoronto.ca/course/eeb497h1), or
 [EEB499](https://artsci.calendar.utoronto.ca/course/eeb499y1)). These
 are generally akin to an honours thesis or a capstone research project.
-Most students take EEB498 as a full-year course in their final year,
-although half-year and summer research project courses are a
+Most students take EEB498 as a full-year course in their final year of
+undergrad, although half-year and summer research project courses are a
 possibility. Research project students develop and carry out their own
-independent research project, although again they often work closely
-with a graduate student or postdoc in the lab. They usually present
+independent research project, again often with input and supervision
+from a graduate student or postdoc in the lab. They usually present
 their research at the department’s annual undergraduate research fair in
-April.
+April, and some have gone on to publish their results in peer-reviewed
+journal articles.
 
 Interested students should get in touch with Prof. Megan Frederickson by
 email, and must submit an application form to the department in March
 for the summer semester or in July for the following academic year. More
-information is available on the [EEB
-Department](https://eeb.utoronto.ca/education/undergraduate/research-courses-2/)
+information is available on the [Dept. of Ecology and Evolutionary
+Biology](https://eeb.utoronto.ca/education/undergraduate/research-courses-2/)
 website.
 
 ### Summer research awards
@@ -111,7 +110,9 @@ Applications for these programs are due in late February or early March
 for the upcoming summer. All of these programs are described in more
 detail on the [EEB
 Department](https://eeb.utoronto.ca/education/undergraduate/scholarships-and-awards/)
-website.
+website. Although NSERC USRAs are federally funded, the application
+process and administration of these awards is handled locally by the
+department.
 
 ### Volunteering
 
