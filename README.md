@@ -121,7 +121,7 @@ In the past, the Frederickson Lab has accepted undergraduate student
 volunteers. However, not all students can afford to work for free, and
 it is not fair to offer opportunities to gain research experience only
 to students with enough financial resources to pursue unpaid positions.
-For this reason, in recent years, we have tried to forgo volunteers and
-instead mentor undergraduate students through one of the programs listed
-above. All the programs listed above offer either pay or course credit
-to undergraduate student researchers.
+For this reason, we encourage students to consider one of the above
+options instead. All the programs listed above offer either pay or
+course credit to undergraduate student researchers. We will consider
+volunteers only when unusual lab needs or student circumstances arise.
