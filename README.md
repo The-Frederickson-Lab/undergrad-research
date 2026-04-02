@@ -105,10 +105,11 @@ Awards](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 program, which in EEB pays \$7500 for 16 weeks of full-time work in the
 summer. Similar programs include the [Center for Global Change Science
 internships](https://cgcs.physics.utoronto.ca/internships/) and the
-\[Summer Undergraduate Data Science (SUDS) Opportunities Program\].
-Applications for these programs are generally due between late January
-and early March for the upcoming summer. All of these programs are
-described in more detail on the [EEB
+[Summer Undergraduate Data Science (SUDS) Opportunities
+Program](https://datasciences.utoronto.ca/suds/). Applications for these
+programs are generally due between late January and early March for the
+upcoming summer. All of these programs are described in more detail on
+the [EEB
 Department](https://eeb.utoronto.ca/education/undergraduate/scholarships-and-awards/)
 website. Although NSERC USRAs are federally funded, the application
 process and administration of these awards is handled locally by the
